@@ -18,3 +18,5 @@ O método `selecionarItemTableViewProdutos` foi atualizado para exibir a categor
 Os métodos `handleButtonInserir` e `handleButtonAlterar` foram modificados para atribuir a categoria selecionada no `ComboBox` ao produto que está sendo inserido ou alterado. Isso garante que a categoria escolhida seja associada corretamente ao produto.
 
 Por fim, o método `showFXMLAnchorPaneCadastrosProdutosDialog` foi atualizado para passar a categoria selecionada no `ComboBox` para o diálogo de cadastro de produtos, permitindo que a categoria seja selecionada ou alterada ao cadastrar ou editar um produto. Essas alterações tornam o sistema mais completo e funcional, permitindo uma gestão mais precisa e organizada dos produtos com suas respectivas categorias.
+
+OBS: O arquivo ficou com o número 22 por erro de digitação, mas é o arquivo certo. O arquivo abaixo pode ser ignorado
